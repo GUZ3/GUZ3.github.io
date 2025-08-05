@@ -1,6 +1,6 @@
 /* Global Styles */
 :root {
-    --primary-color: #3498db;
+    --primary-color: #2400c7;
     --secondary-color: #2c3e50;
     --accent-color: #e74c3c;
     --light-color: #ecf0f1;
@@ -237,14 +237,14 @@ nav {
 }
 
 .certificates {
-    max-width: 1200px;
+    max-width: 800px;
     margin: 0 auto;
     text-align: center;
 }
 
 .certificates img {
-    max-width: 100%;
-    border-radius: 10px;
+    max-width: 40%;
+    border-radius: 5px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
